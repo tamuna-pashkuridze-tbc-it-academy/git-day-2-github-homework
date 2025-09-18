@@ -1,1 +1,1 @@
-# git-day-2-github-homework
+# day-2-github-homework
